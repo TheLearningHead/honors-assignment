@@ -5,4 +5,4 @@ const isleapYear = (year) => {
     return false;
 };
 
-export default isleapYear;
+export { isleapYear };
